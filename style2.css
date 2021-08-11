@@ -152,8 +152,6 @@ footer {
     text-align: center;
     background-color: antiquewhite;
     padding:10px;
-    position: absolute;/*←絶対位置*/
-    bottom: 0; /*下に固定*/
 }
 .view {
     display: block;
